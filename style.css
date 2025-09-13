@@ -2,7 +2,7 @@
   --red:#aa1e22; --gold:#f2a900; --blue:#002d72;
 }
 body {   
-  background-image: url("image.jpg"); /* your image file */
+  background-image: url("queensu.jpg"); /* your image file */
   background-size: cover;  /* makes it fill the screen */
   background-repeat: no-repeat; /* prevents tiling */
   background-position: center;  /* centers the image */ }
